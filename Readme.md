@@ -4,7 +4,7 @@ Selamat datang! Repository ini dibuat dengan tujuan utama untuk **berbagi ilmu**
 
 Baik Anda seorang pemula yang baru memulai atau seseorang yang ingin menyegarkan ingatan, semoga repository ini bisa bermanfaat.
 
-## 🚀 Misi Kami
+## Tujuan 
 
 * **Berbagi Ilmu:** Menyediakan contoh kode dan penjelasan yang mudah dipahami.
 * **Belajar Bareng:** Membangun komunitas di mana kita bisa saling bertanya, memberi masukan, dan tumbuh bersama.
@@ -12,7 +12,7 @@ Baik Anda seorang pemula yang baru memulai atau seseorang yang ingin menyegarkan
 
 ---
 
-## 📊 Spotlight: Exploratory Data Analysis (EDA)
+##  Spotlight: Exploratory Data Analysis (EDA)
 
 EDA adalah salah satu langkah paling krusial dalam setiap proyek data science, AI engginer, dll. Di sinilah kita "berkenalan" dengan data, menemukan pola, anomali, dan wawasan awal sebelum melompat ke pemodelan.
 
@@ -20,7 +20,7 @@ Di dalam repository ini, Anda akan menemukan:
 * **Notebook EDA:** Kode lengkap yang memandu Anda melalui proses analisis data langkah demi langkah.
 * **Visualisasi Data:** Contoh cara membuat visualisasi yang efektif untuk menceritakan sebuah kisah dari data.
 
-### 🎁 Bonus: Contoh Presentasi EDA
+### Dokumentasi Presentasi EDA
 
 Untuk membantu Anda memahami cara menyajikan temuan EDA Anda secara profesional dan efektif kepada tim atau *stakeholder*, kami telah menyertakan contoh slide presentasi.
 
@@ -28,7 +28,7 @@ Untuk membantu Anda memahami cara menyajikan temuan EDA Anda secara profesional 
 
 ---
 
-## 💻 Apa yang Ada di Dalam Repository Ini?
+##  Apa yang Ada di Dalam Repository Ini?
 
 * **/datasets :** Kumpulan data mentah yang digunakan dalam analisis.
 * **/notebooks:** File Jupyter Notebook yang berisi kode lengkap untuk EDA dan pemodelan Machine Learning.
@@ -37,7 +37,7 @@ Untuk membantu Anda memahami cara menyajikan temuan EDA Anda secara profesional 
 ---
 
 
-## 🤝 Mari Berkontribusi dan Belajar Bersama!
+##  Mari Berkontribusi dan Belajar Bersama!
 
 Repository ini akan jauh lebih baik dengan kontribusi Anda. Jika Anda menemukan kesalahan (typo), memiliki ide untuk perbaikan, atau ingin menambahkan contoh proyek baru, jangan ragu untuk:
 
