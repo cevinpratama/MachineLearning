@@ -1,10 +1,6 @@
-# Selamat Datang di Repository Machine Learning cevin
-
-Selamat datang! Repository ini dibuat dengan tujuan utama untuk **berbagi ilmu**, menjadi tempat **belajar bersama**, dan berfungsi sebagai **panduan praktis** bagi siapa saja yang tertarik dengan dunia Machine Learning dan Data Science.
+Repository ini dibuat dengan tujuan utama untuk **berbagi ilmu**, menjadi tempat **belajar bersama**, dan berfungsi sebagai **panduan praktis** bagi siapa saja yang tertarik dengan dunia Machine Learning dan Data Science.
 
 Baik Anda seorang pemula yang baru memulai atau seseorang yang ingin menyegarkan ingatan, semoga repository ini bisa bermanfaat.
-
-## Tujuan 
 
 * **Berbagi Ilmu:** Menyediakan contoh kode dan penjelasan yang mudah dipahami.
 * **Belajar Bareng:** Membangun komunitas di mana kita bisa saling bertanya, memberi masukan, dan tumbuh bersama.
@@ -13,8 +9,6 @@ Baik Anda seorang pemula yang baru memulai atau seseorang yang ingin menyegarkan
 ---
 
 ##  Spotlight: Exploratory Data Analysis (EDA)
-
-EDA adalah salah satu langkah paling krusial dalam setiap proyek data science, AI engginer, dll. Di sinilah kita "berkenalan" dengan data, menemukan pola, anomali, dan wawasan awal sebelum melompat ke pemodelan.
 
 Di dalam repository ini, Anda akan menemukan:
 * **Notebook EDA:** Kode lengkap yang memandu Anda melalui proses analisis data langkah demi langkah.
